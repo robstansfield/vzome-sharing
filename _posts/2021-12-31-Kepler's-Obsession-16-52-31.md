@@ -16,7 +16,7 @@ description:
 
 {{ page.description }}
 
-It used to be possible to purchase a physical model from Zometool.com 
+It used to be possible to purchase a physical model from <a href="https://www.zometool.com">Zometool.com<\a> 
 
 <vzome-viewer style="width: 100%; height: 65vh;"
        src="https://robstansfield.github.io/vzome-sharing/2021/12/31/16-52-31-Kepler's-Obsession/Kepler's-Obsession.vZome" >
