@@ -15,6 +15,7 @@ description:
 {% endcomment %}
 
 {{ page.description }}
+
 Johannes Kepler (1571 - 1630) believed the relationships among the five Platonic Solids governed order in the universe.
 
 <vzome-viewer style="width: 100%; height: 65vh;"
