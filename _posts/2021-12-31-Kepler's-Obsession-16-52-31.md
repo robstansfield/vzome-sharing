@@ -2,6 +2,8 @@
 title: Kepler's Obsession
 image: https://robstansfield.github.io/vzome-sharing/2021/12/31/16-52-31-Kepler's-Obsession/Kepler's-Obsession.png
 layout: vzome
+description:
+  Johannes Kepler (1571-1630) believed the relationships among the five Platonic Solids governed order in the universe.
 ---
 
 {% comment %}
